@@ -12,5 +12,7 @@ This project is a data visualization dashboard built using Streamlit. The dashbo
 
 
 ## Project Video
-
+<video width="600" controls>
+  <source src="" type="video/mp4">
+</video>
 
