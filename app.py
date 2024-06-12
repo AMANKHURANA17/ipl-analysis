@@ -1,5 +1,5 @@
 import streamlit as st
-
+import streamlit.components.v1 as components
 st.markdown('<h1 style="color:white">Beyond Boundaries: Exploring the Data Dynamics of IPL</h1>', unsafe_allow_html=True)
 
 # Paste your Tableau embed code here
